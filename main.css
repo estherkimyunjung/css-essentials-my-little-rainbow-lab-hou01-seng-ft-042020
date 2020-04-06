@@ -11,29 +11,29 @@ div {
 }
 
 #red {
-  color: red;
+  border-top-color: red;
 }
 
 #orange {
-  color: orange;
+  border-top-color: orange;
 }
 
 #yellow {
-  color: yellow;
+  border-top-color: yellow;
 }
 
 #green {
-  color: green;
+  border-top-color: green;
 }
 
 #blue {
-  color: blue;
+  border-top-color: blue;
 }
 
 #indigo {
-  color: rgb(75, 0, 130);
+  border-top-color: rgb(75, 0, 130);
 }
 
 #purple {
-  color: purple;
+  border-top-color: purple;
 }
